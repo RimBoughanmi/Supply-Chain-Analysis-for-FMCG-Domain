@@ -1,1 +1,2 @@
 # Supply-Chain-Analysis-for-FMCG-Domain
+Supply Chain Analysis for FMCG Domain: This project explores the optimization of supply chain processes for the fast-moving consumer goods (FMCG) sector. It includes data-driven insights and performance metrics visualized through Power BI dashboards, focusing on demand forecasting, inventory management, and supply chain efficiency. The repository contains Power BI reports, analysis scripts, and documentation on key findings to enhance decision-making in the FMCG domain.
